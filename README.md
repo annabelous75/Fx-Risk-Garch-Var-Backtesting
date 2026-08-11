@@ -45,7 +45,6 @@ Python, Pandas, NumPy, Matplotlib, yfinance, ARCH, statsmodels, time-series anal
 ## Repository Contents
 
 - `fx_risk_garch_var_backtesting.ipynb` - complete data preparation, modelling, forecasting and backtesting workflow
-- `figures/` - selected volatility and VaR visualisations
 - `requirements.txt` - Python dependencies required to reproduce the analysis
 
 ## Data Source
