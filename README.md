@@ -65,5 +65,3 @@ Then open and run:
 ```bash
 jupyter notebook fx_risk_garch_var_backtesting.ipynb
 ```
-
-URL) | [ORCID](https://orcid.org/0009-0002-7662-9297)
