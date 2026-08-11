@@ -62,5 +62,5 @@ pip install -r requirements.txt
 Then open and run:
 
 ```bash
-jupyter notebook fx_risk_garch_var_backtesting.ipynb
+jupyter notebook Code_FX_GARCH_VaR.ipynb
 ```
