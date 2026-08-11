@@ -1,5 +1,3 @@
-# Fx-Risk-Garch-Var-Backtesting
-FX risk modelling for EUR/USD, EUR/GBP and EUR/CHF using GARCH-family models, rolling Value-at-Risk forecasts and statistical backtesting.
 # Foreign Exchange Risk Modelling with GARCH and Value-at-Risk
 
 This project develops and evaluates a quantitative framework for modelling volatility and market risk across EUR/USD, EUR/GBP and EUR/CHF.
